@@ -1,74 +1,69 @@
-📊 Basic Exploratory Data Analysis (EDA)
-Content Type Analysis
+### 📊 **BASIC EXPLORATORY DATA ANALYSIS (EDA)**
 
-How many different types of content (e.g., movies, TV shows) are there in the dataset?
+1. **CONTENT TYPE ANALYSIS**
+   - How many different types of content (e.g., movies, TV shows) are there in the dataset?
+   - What is the distribution of content types in the dataset? (e.g., Are there more movies than TV shows?)
 
-What is the distribution of content types in the dataset? (e.g., Are there more movies than TV shows?)
+2. **CONTENT ADDITION OVER TIME**
+   - In which years were the most contents added to the dataset?
 
-Content Addition Over Time
+3. **TOP COUNTRIES BY CONTENT COUNT**
+   - Which are the top 10 countries with the most content?
 
-In which years were the most contents added to the dataset?
+4. **MOST COMMON RATING**
+   - Which rating appears most frequently across the content?
 
-Top Countries by Content Count
+---
 
-Which are the top 10 countries with the most content?
+### 🧑‍💼 **PERSONAL ANALYSIS BY CONTENT**
 
-Most Common Rating
+1. **TOP DIRECTORS**
+   - Who are the top 10 directors with the most directed content?
 
-Which rating appears most frequently across the content?
+2. **TOP ACTORS**
+   - Who are the top 10 actors who have appeared in the most content?
 
-🧑‍💼 Personal Analysis by Content
-Top Directors
+3. **DIRECTOR'S CONTENT PRODUCTION OVER TIME**
+   - How many contents has a specific director produced over time?
 
-Who are the top 10 directors with the most directed content?
+4. **AVERAGE LENGTH OF CONTENT FOR SPECIFIC ACTOR**
+   - What is the average length of the content in which a specific actor has appeared?
 
-Top Actors
+---
 
-Who are the top 10 actors who have appeared in the most content?
+### 🎬 **CONTENT FEATURE ANALYSIS**
 
-Director's Content Production Over Time
+1. **MOVIES' DURATION**
+   - What is the average duration of movies?
 
-How many contents has a specific director produced over time?
+2. **LONGEST MOVIE**
+   - Which movie has the longest duration?
 
-Average Length of Content for Specific Actor
+3. **DURATION DISTRIBUTION**
+   - How is the distribution of movie durations? Are shorter films more common than longer ones?
 
-What is the average length of the content in which a specific actor has appeared?
+4. **TV SHOWS DURATION**
+   - How long do TV shows typically last, in terms of seasons or hours?
 
-🎬 Content Feature Analysis
-Movies' Duration
+---
 
-What is the average duration of movies?
+### 📅 **TRENDS OVER TIME**
 
-Longest Movie
+1. **PEAK CONTENT ADDITION YEAR**
+   - Which year saw the most content added?
 
-Which movie has the longest duration?
+2. **CHANGES IN RATING DISTRIBUTION**
+   - How has the distribution of ratings evolved over the years?
 
-Duration Distribution
+3. **CONTENT TYPE CHANGES OVER TIME**
+   - How have the types of content changed over the years? (e.g., Is there an increase in TV shows?)
 
-How is the distribution of movie durations? Are shorter films more common than longer ones?
+---
 
-TV Shows Duration
+### 🌍 **COUNTRY-BASED ANALYSIS**
 
-How long do TV shows typically last, in terms of seasons or hours?
+1. **COUNTRY-SPECIFIC CONTENT TYPES**
+   - Which country produces more of a specific type of content?
 
-📅 Trends Over Time
-Peak Content Addition Year
-
-Which year saw the most content added?
-
-Changes in Rating Distribution
-
-How has the distribution of ratings evolved over the years?
-
-Content Type Changes Over Time
-
-How have the types of content changed over the years? (e.g., Is there an increase in TV shows?)
-
-🌍 Country-Based Analysis
-Country-Specific Content Types
-
-Which country produces more of a specific type of content?
-
-Duration Comparison by Country
-
-How does the average duration of American-made content compare to British-made content?
+2. **DURATION COMPARISON BY COUNTRY**
+   - How does the average duration of American-made content compare to British-made content?
